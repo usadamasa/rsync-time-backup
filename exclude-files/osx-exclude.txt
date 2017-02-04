@@ -1,0 +1,12 @@
+/.Spotlight-V100
+/.Trashes
+/Volumes
+/Users/Guest
+~/.ansible
+~/.Trash
+~/onedrive
+~/gdrive
+~/Dropbox
+~/Desktop
+~/VirtualBox VMs
+.DS_Store
